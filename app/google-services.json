@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "827798693953",
+    "project_id": "imageview-3d219",
+    "storage_bucket": "imageview-3d219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827798693953:android:1f0eed0fe0a5bee7ba7ec0",
+        "android_client_info": {
+          "package_name": "com.example.imageview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjOgJzIFG-fPKYXqiaPl03MgUJA9Shop8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
